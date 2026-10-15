@@ -2,7 +2,7 @@
 
 Code for: Ajaikrishna V. A. and Rathnakannan K., "Bounded Temporal Alignment for Free-Running Multi-Camera Embedded Vision Systems", submitted to *IEEE Embedded Systems Letters*.
 
-Data: https://doi.org/10.5281/zenodo.XXXXXXX
+Data: https://doi.org/10.5281/zenodo.23388763
 
 | Path | Contents |
 |---|---|
