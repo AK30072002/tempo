@@ -12,8 +12,8 @@ authors:
     given-names: "Rathnakannan"
     orcid: "https://orcid.org/0000-0003-2703-1096"
     affiliation: "Anna University, Chennai, India"
-repository-code: "https://github.com/XXXX/tempo"
+repository-code: "https://github.com/AK30072002/tempo"
 identifiers:
   - type: doi
-    value: "10.5281/zenodo.XXXXXXX"
+    value: "10.5281/zenodo.23388763"
     description: "Raw measurement data and code archive"
